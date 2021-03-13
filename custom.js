@@ -370,7 +370,7 @@ $(function() {
 		data: {
             default_ref: 'TVtQ6qCsR2yVxf53GostDqH9QR6mYaP4SS',
             ref: 'TVtQ6qCsR2yVxf53GostDqH9QR6mYaP4SS',
-            contract_address: 'TJFD5DDjximGQTujvCKBbKkkMrgXGgbtKn', // TTzv1Vpnvpqu6wCqzUFZpSVnBrunEiSeGA
+            contract_address: 'TUMatgmcCgc3q6XS4iECadPB3upb1wZwpQ', // TTzv1Vpnvpqu6wCqzUFZpSVnBrunEiSeGA
             contract: {
                 users: 0,
                 invested: 0,
